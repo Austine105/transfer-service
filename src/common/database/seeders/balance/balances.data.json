@@ -1,0 +1,8 @@
+{
+  "balances": [
+    { "account_nr": "000000001", "balance": 100000 },
+    { "account_nr": "000000002", "balance": 0 },
+    { "account_nr": "000000003", "balance": 100000 },
+    { "account_nr": "000000004", "balance": 0 }
+  ]
+}

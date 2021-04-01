@@ -1,0 +1,8 @@
+{
+  "transactions": [
+    { "account_nr": "000000001", "amount": 20000, "reference": "1617297946428" },
+    { "account_nr": "000000001", "amount": 40000, "reference": "1617297946429" },
+    { "account_nr": "000000003", "amount": 20000, "reference": "1617297946430" },
+    { "account_nr": "000000003", "amount": 40000, "reference": "1617297946431" }
+  ]
+}
