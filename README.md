@@ -9,6 +9,10 @@
 
 <br />
 
+### Prerequisites
+- Postgres
+- Redis
+
 ### Setup
 - Create .env from sample.env
 - Create database in postgres
